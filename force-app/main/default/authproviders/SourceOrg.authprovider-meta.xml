@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AuthProvider xmlns="http://soap.sforce.com/2006/04/metadata">
+    <authorizeUrl>https://amacom-dev-ed.my.salesforce.com/services/oauth2/authorize</authorizeUrl>
+    <consumerKey>3MVG9pRzvMkjMb6nVEmKFiGhe5_g44YZlvGlKuWfme6arZbSErAs0pNwnM5XOkgfYmwmQxrdbx.posHdKMuSP</consumerKey>
+    <consumerSecret>8IyXfPJQlg0mCge6OOxJPPFfIpMAzL3rJx6ncjIRvH4SWT3tljAxFEsNxcks4hhh9vsbDqSJ1DQfA9YgJiRu6HBBGPdiC2rX</consumerSecret>
+    <defaultScopes>api refresh_token offline_access full</defaultScopes>
+    <friendlyName>SourceOrg</friendlyName>
+    <includeOrgIdInIdentifier>true</includeOrgIdInIdentifier>
+    <providerType>Salesforce</providerType>
+    <sendAccessTokenInHeader>false</sendAccessTokenInHeader>
+    <sendClientCredentialsInHeader>false</sendClientCredentialsInHeader>
+    <sendSecretInApis>true</sendSecretInApis>
+    <tokenUrl>https://amacom-dev-ed.my.salesforce.com/services/oauth2/token</tokenUrl>
+</AuthProvider>
