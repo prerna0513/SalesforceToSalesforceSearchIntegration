@@ -1,3 +1,22 @@
+# Salesforce To Salesforce Integration
+
+Orgs defined -
+
+1- Target org 
+2- Source org
+
+Settings required from source org 
+
+1- Connected app with consumer secret and Id 
+2- Apex Rest API webservice class
+
+Setting required for target salesforce org 
+
+1- Auth Provider and Named Credentails
+2- Apex Rest API callout 
+3- Parsing of data 
+4- Lightining web component for showing the data
+
 # Salesforce DX Project: Next Steps
 
 Now that you’ve created a Salesforce DX project, what’s next? Here are some documentation resources to get you started.
